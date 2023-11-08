@@ -1,5 +1,6 @@
 import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
+import styles from '@/app/ui/home.module.css'
 
 import Link from 'next/link';
 export default function Page() {
@@ -17,6 +18,8 @@ export default function Page() {
             </a>
             , brought to you by Vercel.
           </p>
+          <div className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"/>
+          <div className={styles.shape}/>
           <Link
             href="/login"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
