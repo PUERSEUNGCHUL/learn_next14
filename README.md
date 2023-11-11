@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Next.js App Router 강의 - Starter
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+이 프로젝트는 Next.js App Router강의를 위한 stater템플릿입니다. 이 프로젝트는 dashboard어플리케이션의 시작 코드를 포함합니다.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+자세한 정보는 Next.js의 웹사이트 [course curriculum](https://nextjs.org/learn)를 참조하세요.
